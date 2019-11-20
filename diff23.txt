@@ -1,0 +1,11 @@
+diff --git a/Menu.txt b/Menu.txt
+deleted file mode 100644
+index ab8afc4..0000000
+--- a/Menu.txt
++++ /dev/null
+@@ -1,5 +0,0 @@
+-	Steak beauf
+-	Salade Marocaine 
+-	Filet de dinde 
+-	Gâteau citronnelle 
+-Bon appetit
